@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Today Garbage Impruneta</string>
+
+    <string name="garbage_paper">Paper</string>
+    <string name="garbage_plastic">Plastic</string>
+    <string name="garbage_mixed">Mixed</string>
+    <string name="garbage_organic">Organic</string>
+    <string name="garbage_none">Nothing</string>
+
+</resources>
